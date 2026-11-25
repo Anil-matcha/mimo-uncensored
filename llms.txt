@@ -1,0 +1,15 @@
+# MiMo V2.6 Flash Abliterated API with Muapi
+
+> Developer guide to Muapi-hosted MiMo endpoints, request schemas, dated pricing, and integration examples.
+
+- [README](README.md)
+- [Model selection](docs/model-selection.md)
+- [API reference](docs/api-reference.md)
+- [Pricing](docs/pricing.md)
+- [Operations](docs/operations.md)
+- [FAQ](docs/faq.md)
+- [Evaluation protocol](docs/evaluation.md)
+- [Prompt templates](prompts.md)
+- [Official Muapi model page](https://muapi.ai/abliterated-llm-api)
+- [Muapi API reference](https://muapi.ai/docs/api-reference)
+- [Muapi streaming guide](https://muapi.ai/docs/streaming)
